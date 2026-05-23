@@ -1,0 +1,8 @@
+{
+  "name": "QuakeGuard - Deprem Risk Analiz ve Güvenlik",
+  "description": "Türkiye için kapsamlı deprem risk analizi, Sarıyer özel risk haritası, yaşam üçgeni simülasyonu ve yapay zeka destekli kişisel güvenlik raporu sunan modern bir uygulama.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
